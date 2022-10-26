@@ -6,4 +6,4 @@
 
 ### Tools
 
-![](https://github.com/FacuBenitez/portfolio/src/assets/node.png)
+![](https://github.com/FacuBenitez/portfolio/blob/main/src/assets/react.png)
