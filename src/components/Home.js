@@ -13,10 +13,6 @@ export const Home = () => {
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
           Front-End Developer.
         </h2> 
-              <p className='text-[#8892b0] py-4 max-w-[700px]'>
-                I’m a front-end developer specializing in building websites and web applications.
-                 Currently, I’m focused on learning new technologies to be a better developer.
-              </p>
         <div>
           <Link className='text-white  cursor-pointer group border-2 px-6 py-3 my-2 w-[168px] flex items-center hover:bg-pink-600 hover:border-pink-600'
             to='work'

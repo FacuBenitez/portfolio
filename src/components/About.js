@@ -16,7 +16,9 @@ export const About = () => {
                 <p>Hi. My name is Facundo Benitez and i am a Web developer. </p>
             </div>
             <div>
-                <p>I specialize in creating web applications and websites. Enthusiast to learn and improve my abilities as a developer.</p>
+                <p>I specialize in creating web applications and websites. Enthusiast to learn and improve my abilities as a developer.
+                 Currently, I’m focused on learning new technologies to be a better developer.
+                </p>
             </div>
             </div>
         </div>
